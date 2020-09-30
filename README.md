@@ -1,4 +1,4 @@
-# Automated Juniper Network Connect VPN AppleScript
+# Automated Jupiter Network Connect VPN AppleScript
 
 ![Screenshot](http://seanfisk.github.io/juniper-network-connect-vpn-applescript/screenshot.png)
 
